@@ -25,6 +25,19 @@ _Excerpt_ Carleton College invites applications for a tenure-track position in c
 
 ------------
 
+### Denison University
+{: #denison}
+
+[Excerpt] The Computer Science program at Denison University invites applications for multiple tenure track faculty positions at open rank to begin in August 2023. Candidates are required to have a PhD in Computer Science or a closely related field by the start date. (ABD will be considered as Instructor until PhD is attained). We are seeking energetic and dynamic teachers who are committed to teaching a variety of courses in the CS core curriculum and creating new electives that complement our existing offerings.  Candidates should be dedicated to teaching in a liberal arts setting, mentoring undergraduate students, and supervising their research projects. The successful candidate will also be expected to contribute to the continued growth of the department and the college and maintain a strong scientific research record of peer-reviewed publications in any CS specialty or related field.
+
+- We will begin reviewing applications on a rolling basis on **October 10, 2022**. We welcome applications received after this date and will evaluate them as they arrive.
+- Granville, OH. USA
+
+[Full Job Ad](http://apply.interfolio.com/109002){: .button-ad} 
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Grinnell College 
 {: #grinnell}
 
